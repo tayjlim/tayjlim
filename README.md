@@ -1,4 +1,6 @@
-### Hi there 👋 I am Taylor
+### Hi there 👋 Taylor here!
+
+I am a fullstack engineer with a bridging the gap between art and my analytical nature.
 
 <!--
 **tayjlim/tayjlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
