@@ -2,6 +2,8 @@
 
 I am a fullstack engineer with a bridging the gap between art and my analytical nature.
 
+I like food
+
 <!--
 **tayjlim/tayjlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +25,6 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=tayjlim&style=flat-square&color=blue" alt=""/>
 
-I like food
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=tayjlim
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tayjlim&theme=dark&background=000000)](https://git.io/streak-stats)
