@@ -1,8 +1,6 @@
 ### Hi there 👋 Taylor here!
 
-I am a fullstack engineer with a bridging the gap between art and my analytical nature.
-
-I like food
+I am a fullstack engineer who loves dogs
 
 <!--
 **tayjlim/tayjlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
