@@ -2,6 +2,7 @@
 
 I am a fullstack engineer who loves food
 
+I am currently learning SalesForce Development (apex/visualforce)
 <!--
 **tayjlim/tayjlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
