@@ -2,7 +2,7 @@
 
 I am a fullstack engineer who loves food
 
-I am currently learning SalesForce Development (apex/visualforce)
+I am currently learning SalesForce Development (apex/visualforce) (It is vert fun!)
 
 
 <img src="https://komarev.com/ghpvc/?username=tayjlim&style=flat-square&color=blue" alt=""/>
