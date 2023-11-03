@@ -2,7 +2,7 @@
 
 I am a fullstack engineer who loves food
 
-I am currently learning GO! and writing scripts to improve efficiency
+I am currently learning GO!
 
 
 <img src="https://komarev.com/ghpvc/?username=tayjlim&style=flat-square&color=blue" alt=""/>
