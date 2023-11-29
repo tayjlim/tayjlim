@@ -2,7 +2,7 @@
 
 I am a fullstack engineer who loves food
 
-I am currently learning GO and Rust
+I am currently learning GO and Rust.
 
 
 <img src="https://komarev.com/ghpvc/?username=tayjlim&style=flat-square&color=blue" alt=""/>
