@@ -1,6 +1,6 @@
 ### Hi there 👋 Taylor here!
 
-I am a fullstack engineer who loves food.
+I am a fullstack engineer who loves food..
 
 I am currently learning GO and Rust.
 
